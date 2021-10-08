@@ -1,4 +1,4 @@
-Olá, me chamo Felipe. 👋🤝
+Olá, me chamo Felipe. 🤝
 
 #
 
@@ -7,7 +7,7 @@ Olá, me chamo Felipe. 👋🤝
 
 🌱 Estudos:
 - Iniciante em Programação Dev.
-- Comecei pelo curso da Imersão Dev da Alura. (13/09/2021 a 27/09/2021)
+- Comecei pela Imersão Dev da Alura. (13/09/2021 a 27/09/2021)
 - Atualmente cursando Certified Tech Developer na Digital House. (18/10/2021 a 07/2024)
 - Acumulando XP em Inglês pelo Duolingo.
 
@@ -22,6 +22,8 @@ Olá, me chamo Felipe. 👋🤝
   </div>
   
   <div>
+  <a href="https://github.com/Incognoscivell" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/felipe-camargo-the-selector" target="_blank"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" target="_blank"></a>
   <a href="https://www.instagram.com/felipe93.camargo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://www.duolingo.com/profile/felipe93.camargo" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
@@ -29,3 +31,5 @@ Olá, me chamo Felipe. 👋🤝
    <a href="felipe93.camargo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://t.me/Incognoscivell" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   </div>
+
+Obrigado pela visita! 👋
