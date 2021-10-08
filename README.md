@@ -1,16 +1,19 @@
-# Olá, me chamo Felipe Camargo. 👋
+Olá, me chamo Felipe. 👋🤓
 
-- 🔭 Emprego:
+#
+
+🔭 Emprego:
 - Atualmente trabalho na Prefeitura de Atibaia - SP.
-- 
-- 🌱 Estudos:
+
+🌱 Estudos:
 - Iniciante em Programação Dev.
 - Comecei pelo curso da Imersão Dev da Alura. (13/09/2021 a 27/09/2021)
 - Atualmente cursando Certified Tech Developer na Digital House. (18/10/2021 a 07/2024)
 - Acumulando XP em Inglês pelo Duolingo.
-- 
-- 🤔 Busco: 
+
+🤔 Busco: 
 - Oportunidades na área de TI.
+
 #
 
 <div>
@@ -19,7 +22,8 @@
   </div>
   
   <div>
-  <a href="https://www.instagram.com/felipe93.camargo/" target="_blank"><img src="https://img.shields.io/badge/<Instagram>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/felipe93.camargo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://www.duolingo.com/profile/felipe93.camargo" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/incognoscivell/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="mailto:felipe93.camargo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
