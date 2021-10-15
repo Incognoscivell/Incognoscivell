@@ -6,7 +6,7 @@ Olá, me chamo Felipe. 🤝
 - Atualmente trabalho na Prefeitura de Atibaia - SP.
 
 🌱 Estudos:
-- Iniciante em Programação Dev.
+- Iniciante em Programação/Dev.
 - Comecei pela Imersão Dev da Alura. (13/09/2021 a 27/09/2021)
 - Atualmente cursando Certified Tech Developer na Digital House. (18/10/2021 a 07/2024)
 - Acumulando XP em Inglês pelo Duolingo.
