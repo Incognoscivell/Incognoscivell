@@ -9,6 +9,7 @@ Olá, me chamo Felipe. 🤝
 - Iniciante em Programação/Dev.
 - Comecei pela Imersão Dev da Alura. (13/09/2021 a 27/09/2021)
 - Atualmente cursando Certified Tech Developer na Digital House. (18/10/2021 a 07/2024)
+- Bootcamps e cursos variados pela plataforma da Digital Innovation One.
 - Acumulando XP em Inglês pelo Duolingo.
 
 🤔 Busco: 
