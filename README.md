@@ -11,10 +11,10 @@ Olá, me chamo Felipe. 🤝
 - Atualmente cursando Certified Tech Developer na Digital House. (18/10/2021 a 07/2024)
 - Bootcamps e cursos variados pela plataforma da Digital Innovation One.
 - Acumulando XP em Inglês pelo Duolingo.
+- Em transição de carreira.
 
 🤔 Busco: 
-- Oportunidades na área de TI.
-- Em transição de carreira.
+- Oportunidades de aprendizado na área de TI.
 
 #
 
