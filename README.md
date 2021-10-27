@@ -14,6 +14,7 @@ Olá, me chamo Felipe. 🤝
 
 🤔 Busco: 
 - Oportunidades na área de TI.
+- Em transição de carreira.
 
 #
 
