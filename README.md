@@ -9,7 +9,7 @@ Olá, me chamo Felipe. 🤝
 - Iniciante em Programação/Dev.
 - Comecei pela Imersão Dev da Alura. (13/09/2021 a 27/09/2021)
 - Atualmente cursando Certified Tech Developer na Digital House. (18/10/2021 a 07/2024)
-- Bootcamps e cursos variados pelas plataformas da Rocketseat, Udemy e Digital Innovation One.
+- Bootcamps e cursos variados pelas plataformas da Rocketseat, Curso em Vídeo, Udemy e Digital Innovation One.
 - Acumulando XP em Inglês pelo Duolingo.
 - Em transição de carreira.
 
