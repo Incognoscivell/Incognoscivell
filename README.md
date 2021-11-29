@@ -6,7 +6,7 @@ Olá, me chamo Felipe. 🤝
 - Atualmente trabalho na Prefeitura de Atibaia - SP.
 
 🌱 Estudos:
- - Comecei pela Imersão Dev da Alura. (13/09/2021 a 27/09/2021
+ - Imersão Dev da Alura. (13/09/2021 a 27/09/2021
  - Me tornei aluno da Alura.
  - Cursando CC50: Introdução à Ciência da Computação - O Curso de Harvard, no Brasil pela Fundação Escolar.
  - Em 2022 começarei o Técnico de Desenvolvimento de Sistemas na ETEC.
