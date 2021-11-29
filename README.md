@@ -11,7 +11,6 @@ Olá, me chamo Felipe. 🤝
  - Cursando CC50: Introdução à Ciência da Computação - O Curso de Harvard, no Brasil pela Fundação Escolar.
  - Em 2022 começarei o Técnico de Desenvolvimento de Sistemas na ETEC.
  - Praticando inglês pelo Duolingo.
- - Busco oportunidades de aprendizado na área de tecnologia.
  - Em transição de carreira.
 
 🤔 Busco: 
