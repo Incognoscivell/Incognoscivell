@@ -6,12 +6,13 @@ Olá, me chamo Felipe. 🤝
 - Atualmente trabalho na Prefeitura de Atibaia - SP.
 
 🌱 Estudos:
-- Iniciante em Programação/Dev.
-- Comecei pela Imersão Dev da Alura. (13/09/2021 a 27/09/2021)
-- Atualmente cursando Certified Tech Developer na Digital House. (18/10/2021 a 07/2024)
-- Bootcamps e cursos variados pelas plataformas da Rocketseat, Curso em Vídeo, Udemy e Digital Innovation One.
-- Acumulando XP em Inglês pelo Duolingo.
-- Em transição de carreira.
+ - Comecei pela Imersão Dev da Alura. (13/09/2021 a 27/09/2021
+ - Me tornei aluno da Alura.
+ - Cursando CC50: Introdução à Ciência da Computação - O Curso de Harvard, no Brasil pela Fundação Escolar.
+ - Em 2022 começarei o Técnico de Desenvolvimento de Sistemas na ETEC.
+ - Praticando inglês pelo Duolingo.
+ - Busco oportunidades de aprendizado na área de tecnologia.
+ - Em transição de carreira.
 
 🤔 Busco: 
 - Oportunidades de aprendizado na área de TI.
