@@ -4,7 +4,7 @@ Olá, me chamo Felipe. 🤝😁
 
 🌱 Estudos:
  - Iniciante em Programação/Dev.
- - Comecei pela Imersão Dev da Alura. (13/09/2021 a 27/09/2021)
+ - Comecei pela Imersão Dev da Alura.
  - Atualmente aluno da Alura, DIO e Cursos em Vídeo.
  - Acumulando XP em Inglês pelo Duolingo.
  - Em transição de carreira.
