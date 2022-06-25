@@ -5,12 +5,12 @@ Olá, me chamo Felipe. 🤝😁
 🌱 Estudos:
  - Iniciante em Programação/Dev.
  - Cursando Ciências da Computação pelo Descomplica.
- - Cursando trilha de Formações em Programação pela Alura.
+ - Cursando Programação Front-End no Senai.
  - Acumulando XP em Inglês pelo Duolingo.
  - Em transição de carreira.
 
 🤔 Busco: 
-- Oportunidades de aprendizado na área de TI.
+- Oportunidades de estágio e aprendizado na área de TI.
 
 #
 
