@@ -25,7 +25,7 @@ Olá, me chamo Felipe. 🤝😁
   <a href="https://www.instagram.com/felipe93.camargo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCSRQa7jQVHZkitVjNkmckyg" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://www.duolingo.com/profile/felipe93.camargo" target="_blank"><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/incognoscivell/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fecamarg/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://t.me/Incognoscivell" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   </div>
 
